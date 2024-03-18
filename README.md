@@ -14,11 +14,11 @@ Software Developer with over 15 years of solid experience, excited to provide va
 * Visual Studio (VS), SQL Server Management Studio (SSMS).
 
 ### Experience
-**Personal and technical development 	                         		                         Mar 23 - Present**
+**Personal and Technical Development, Mar 23 - Present**
 * Review Power BI sample code including Dimensional Model reports.
 * Take training in Business intelligence and analysis, SSIS (SQL Server Integration Services), Excel and Pivot tables.
 
-**Ontrak, Los Angeles, Full time	   Analyst / DB Developer		            Jun 08 - Mar 23**\
+**Ontrak, Los Angeles, Analyst / DB Developer, Jun 08 - Mar 23**\
 Treatment Management application called eOT
 * Developed backend stored procedures and functions in SQL Server to support eOT business logic using SQL, T-SQL and automated database jobs. 
 * Participated in data modeling of eOT database which includes designing tables, creating indexes, and breaking tables into smaller ones to improve performance. 
@@ -39,22 +39,22 @@ Treatment Management application called eOT
 * Provided evidence for auditors including reports on active database and application users with their roles and permissions. 
 * Supported Cloudera Hadoop cluster upgrades on Linux which helped our data science department to process data and satisfy the business needs without any interruption. 
 
-**Emtech (Aveeva), Simi Valley	                  Developer                                              Apr 07 - Jun 08**\
+**Emtech (Aveeva), Simi Valley, Developer, Apr 07 - Jun 08**\
 Client: Bank of America, formerly Countrywide Bank.
 * Developed functionalities into Mortgage Pricing engine to generate specific outputs based on input parameters using SQL query. 
 * Implemented Exception Management system using Microsoft Exception block and C# for Foreclosure application.
 
-**Procase Consulting, Toronto                                          Analyst / Developer                                  Oct 06 - Apr 07**\
+**Procase Consulting, Toronto, Analyst / Developer, Oct 06 - Apr 07**\
 Client: Royal Bank of Canada (RBC)                  
 * Gathered requirement and implemented functionality into Online Banking Payment Portal system allowing customers to transfer funds using SQL Server, ASP.NET and C#.
 * Extended role-based security system to provide user access at the application, client, and account levels.
 
-**Avanade (Joint venture between Accenture / Microsoft), Toronto          Developer	             Apr 04 - Oct 06**\
+**Avanade (Joint venture between Accenture / Microsoft), Toronto, Developer, Apr 04 - Oct 06**\
 Client: Accenture Business Services for Utilities and Southern Company Gas
 * Developed and tested Workflow management application using SQL Server and XSD/XML. 
 * Extended and QA customer enrollment web application using ASP.NET, C# and JavaScript.
 
-**Strategic Horizon, Patsa, Gooya System, Mazware	      Programmer / Developer                Nov 99 - Apr 04**
+**Strategic Horizon, Patsa, Gooya System, Mazware, Programmer / Developer, Nov 99 - Apr 04**
 * Designed and developed real estate website using VB.NET, ASP.NET and SQL Server. 
 * Developed user management system for Office automation application.
 * Developed multiple web-based applications including employee vacation management system, address book, and document server using SQL Server, HTML, ASP.NET, VB.NET and JavaScript. 
