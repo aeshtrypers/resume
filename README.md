@@ -4,7 +4,7 @@ Irvine, CA\
 US Citizen
 
 ### Objective
-Software Developer with over 15 years of solid experience, excited to provide value to your company. 
+Software Analyst with over 15 years of solid experience, excited to provide value to your company. 
 
 ### Skills
 * SQL Server Reporting Services (SSRS), T-SQL, SQL Server, Power BI.
